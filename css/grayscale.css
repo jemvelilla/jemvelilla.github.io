@@ -577,3 +577,8 @@ video {
     width: 100%;
     height: auto;
 }
+
+.ldr-photo{
+	height: 50px;
+	width: 100px;
+}
